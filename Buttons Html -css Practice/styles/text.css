@@ -1,0 +1,64 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .video-title {
+    font-weight: bold;
+    font-size: 17px;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+  }
+
+  .video-stats {
+    font-size: 14px;
+    color: #606060;
+
+    margin-bottom: 20px;
+  }
+  .video-author {
+    color: #606060;
+    font-size: 14px;
+
+    margin-bottom: 20px;
+  }
+  .video-description {
+    font-size: 14px;
+    color: #606060;
+    width: 300px;
+    line-height: 22px;
+    margin-bottom: 100px;
+  }
+  .apple-text{
+    text-align: center;
+    background-color: #e34140;
+    margin-bottom: 50px;
+    font-size: 14px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: white;
+    line-height: 21px;
+    
+    
+  }
+  .shop-now{
+  
+    
+    
+  }
+  .shop-now:hover{
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  .icon{
+    margin-bottom: 10px;
+    margin-top: 100px;
+  }
+  .apple-logo{
+    margin-left: 0px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+  }
